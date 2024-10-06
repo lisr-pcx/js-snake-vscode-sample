@@ -1,6 +1,8 @@
 # js-snake-vscode-sample
 
-Simple clone of snake game in Javascript.  
+Simple clone of snake game in Javascript.
+
+Live site [HERE](https://lisr-pcx.github.io/js-snake-vscode-sample/).
 
 > [!NOTE]
 > This guide is based on online tutorials and articles, some information can be outdated, please change according to your needs.
@@ -20,17 +22,15 @@ For debugging use "Development tools" inside your browser.
 
 The game is running inside a standard HTML page "docs/index.html".
 
-All code is available in "docs/snake.js".
+All code is available in "docs/snake.js".  
+Framework: Vanilla JS ;)  
 
-Framework: Vanilla JS ;)
-
-### User Input
-
+**User Input:**  
 Use the four arrow key of the keyboard to change the direction.
 
 # LINKS
 
-[JS Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[Javascript Reference Doc by Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 > [!WARNING]
-> There are plenty of better example of Javascript programs on the web, please don't consider this one! Coming from C/C++ background my goal was just to play around with Objects and basci elements of the language...
+> There are plenty of better example of Javascript programs on the web, please don't consider this one! Coming from C/C++ background my goal was just to play around with Objects and basic elements of the language.
