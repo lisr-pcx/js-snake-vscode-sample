@@ -9,8 +9,7 @@ Live site [HERE](https://lisr-pcx.github.io/js-snake-vscode-sample/).
 
 ## Setup environment
 
-Start by installing the *editor* used for writing the program.  
-On this guide it's used **Visual Studio Code**. Choose the release according to your OS [Download VS Code](https://code.visualstudio.com/download)
+Start by installing **Visual Studio Code** the editor used for writing the program. Choose the release according to your OS [Download VS Code](https://code.visualstudio.com/download)
 
 At installation complete then open the project folder.
 
@@ -22,8 +21,7 @@ For debugging use "Development tools" inside your browser.
 
 The game is running inside a standard HTML page "docs/index.html".
 
-All code is available in "docs/snake.js".  
-Framework: Vanilla JS ;)  
+All code is available in "docs/snake.js". It's just simple *Vanilla JS* ;)  
 
 **User Input:**  
 Use the four arrow key of the keyboard to change the direction.
