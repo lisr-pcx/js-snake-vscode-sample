@@ -13,7 +13,7 @@ Start by installing **Visual Studio Code** the editor used for writing the progr
 
 At installation complete then open the project folder.
 
-All needed extension are alrady installed by default, but for testing your code changes it's suggested to have **Live Server** extension. When clicking on "Go Live" button (see status bar - bottom right of IDE window) the site will be automatically loaded on default browser.
+All needed extension are already installed by default, but for testing your code changes it's suggested to have **Live Server** extension. When clicking on "Go Live" button (see status bar - bottom right of IDE window) the site will be automatically loaded on default browser.
 
 For debugging use "Development tools" inside your browser.
 
@@ -21,9 +21,9 @@ For debugging use "Development tools" inside your browser.
 
 The game is running inside a standard HTML page "docs/index.html".
 
-All code is available in "docs/snake.js". It's just simple *Vanilla JS* ;)  
+All code is available in "docs/snake.js". Written in Vanilla JS.  
 
-**User Input:**  
+**User Input:**
 Use the four arrow key of the keyboard to change the direction.
 
 # LINKS
