@@ -1,7 +1,7 @@
-// Project: ts-snake-vscode-sample
+// Project: js-snake-vscode-sample
 // lisr-pcx
 // 2024-10-01
-// Simple clone of classic snake game in Typescript language
+// Simple clone of classic snake game in vanilla Javascript
 
 const CELL_SIZE = 20
 const BOARD_N_CELL_SIDE = 20
